@@ -1,0 +1,11 @@
+{
+    "name": "my-npm-pckg-demo",
+    "version": "1.0.1",
+    "main": "index.js",
+    "author": "rostixman",
+    "license": "MIT",
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {}
+  }
+  
