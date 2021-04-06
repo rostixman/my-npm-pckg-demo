@@ -1,7 +1,8 @@
 {
     "name": "my-npm-pckg-demo",
-    "version": "1.0.8",
-    "main": "./index.js",
+    "version": "1.0.9",
+    "main": "dist/bundle.js",
+    "style": "dist/bundle.css",
     "author": "rostixman",
     "license": "MIT",
     "scripts": {},
