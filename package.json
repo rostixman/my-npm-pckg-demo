@@ -1,6 +1,6 @@
 {
     "name": "my-npm-pckg-demo",
-    "version": "1.0.17",
+    "version": "1.0.18",
     "main": "dist/bundle.js",
     "style": "dist/bundle.css",
     "author": "rostixman",
