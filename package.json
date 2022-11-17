@@ -1,11 +1,13 @@
 {
     "name": "my-npm-pckg-demo",
-    "version": "1.0.19",
+    "version": "1.0.4",
     "main": "dist/bundle.js",
     "style": "dist/bundle.css",
     "author": "rostixman",
     "license": "MIT",
     "scripts": {},
-    "dependencies": {},
+    "dependencies": {
+        "mmr-gl": "0.0.58"
+    },
     "devDependencies": {}
 }
